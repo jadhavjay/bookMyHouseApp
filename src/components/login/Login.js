@@ -30,6 +30,16 @@ export class Login extends Component {
                 </input>
                 </div>
                 </div>
+
+                <div className ="col-6 d-flex">
+            <div className="col-6 border">
+                <label> Address : </label>
+                </div>
+                <div className="col-6 border">
+               <input type="text" className="form-control">
+                </input>
+                </div>
+                </div>
             </div>
             </div>
             </div>
